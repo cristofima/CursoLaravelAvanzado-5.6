@@ -51,11 +51,11 @@ Laravel 5.6, master detail CRUD about movies with genders, includes the followin
 
 -   Clone repository
 ```
-git clone https://gitlab.com/cristofima/curso-laravel-avanzado.git
+git clone https://gitlab.com/cristofima/CursoLaravelAvanzado-5.6.git
 ```
 -   Copy .env.example file to .env and edit .env to configure your database, mail, One Signal, Facebook, Google and LinkedIn
 ```
-cd curso-laravel-avanzado
+cd CursoLaravelAvanzado-5.6
 cp .env.example .env
 ```
 - Install libraries and dependencies
